@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Paul Gataaura -- Experience Director -- paul.gataaura@madebysonder.com
+    Martyn Palmer -- Experience Architect -- martyn.palmer@madebysonder.com
+    Michael Brookes -- Solutions Architect & Head of Technology -- michael.brookes@madebysonder.com
+    Paloma Teissen -- UI Designer & Developer -- paloma.tiessen@madebysonder.com
+
+# THANKS
+
+    HTML5 Bolierplate
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    jQuery, Modernizr, Normalize.css

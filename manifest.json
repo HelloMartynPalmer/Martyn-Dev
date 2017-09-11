@@ -1,0 +1,38 @@
+{
+  "name": "The website title",
+  "short_name": "TwelveChars",
+  "description": "Site description",
+  "start_url": "/?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{
+        "src": "_assets/img/global/icons/touch/tile-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "_assets/img/global/icons/touch/tile-152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "_assets/img/global/icons/touch/tile-144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "_assets/img/global/icons/touch/tile-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "_assets/img/global/icons/touch/tile-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "_assets/img/global/icons/touch/tile-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }]
+}
